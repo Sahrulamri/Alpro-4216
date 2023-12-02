@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684401250 source:d:\alpro-4216\uts\bogosort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

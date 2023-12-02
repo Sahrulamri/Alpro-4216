@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683265722 source:d:\alpro-4216\minggu7\minggu7\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
